@@ -1,0 +1,37 @@
+.navbar {
+    text-align: center;
+    min-height: 5.5rem;
+    padding-top: 1rem;
+    background-color: cadetblue;
+    color: white;
+    font-weight: 300;
+    font-size: 14pt;
+}
+
+.navbar-item {
+    margin: 1rem;
+}
+
+.navbar-item:hover {
+    text-decoration: underline 2px white;
+}
+
+.Content {
+    padding: 2rem;
+}
+
+.emphasized {
+    font-weight: bold;
+}
+
+.Content div {
+    padding-bottom: 1rem;
+}
+
+.Content div span {
+    margin-right: 0.25rem;
+}
+
+.showcoins {
+    font-size: 24px;
+}
